@@ -1,5 +1,7 @@
 # pumpfun Hunter
 
+![Batch-Airdrop-Claim](https://github.com/po0urya/pumpFun-Hunter/blob/main/ss.jpg)
+
 ## Overview
 The **pumpfun Hunter** is a powerful and versatile tool designed for trading tokens on **pump.fun**. The bot automates several tasks including token purchasing, selling, price margin monitoring, and commenting on specified tokens. Additionally, it can perform sniper actions to quickly seize trading opportunities.
 
